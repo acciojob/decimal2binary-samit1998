@@ -4,5 +4,7 @@ function decimalToBinary(num) {
   
 }
 console.log(decimalToBinary(7));
+console.log(decimalToBinary(10));
+console.log(decimalToBinary(111));
 window.decimalToBinary = decimalToBinary;
 
