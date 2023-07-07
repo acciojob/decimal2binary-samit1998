@@ -1,11 +1,5 @@
 function decimalToBinary(num) {
-  //Write you code here
-	 return num.toString(2);
+  // Write your code here
 }
 
-console.log(decimalToBinary(7));
-console.log(decimalToBinary(10)); 
-console.log(decimalToBinary(33)); 
-
 window.decimalToBinary = decimalToBinary;
-
